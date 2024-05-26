@@ -1,0 +1,10 @@
+My website with css html and php
+> run XAMPP (Apache and MYSQL)http://localhost:8080/mywebsite/index.php
+> port Apache 8080
+> port mySQL 3307
+> [Error] when refresh it resubmited last form filling
+
+My website with python and html
+> run app.py
+> open this link http://127.0.0.1:5000
+> port MYSQL 3306 or empty default
