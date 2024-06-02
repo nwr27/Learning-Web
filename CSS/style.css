@@ -1,0 +1,45 @@
+body{
+  background-color: rgb(255, 255, 192);
+  background-image: url(../IMAGES/paisley.png);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1,h2 {
+  font-family: Dank Mono, Fira Code, Inconsolata;
+  font-variant: normal;
+  font-size: 30px;
+  color: brown;
+  text-align: center;
+}
+h2{
+  font-style: italic;
+  color: black;
+}
+p {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align:  justify;
+  font-style: italic;
+}
+a{
+  text-decoration: underline;
+}
+ul li a{
+  color: orange;
+}
+#p1{
+  color: chocolate;
+}
+.p2{
+  color: blue;
+}
+.tebal {
+  font-weight: bold;
+}
+li.aqua,li a.aqua{
+  color: aqua;
+}
+
+
+/* urutan prioritas selector
+Gunakan elemen html
+Gunakan class
+Gunakan id */
