@@ -1,0 +1,30 @@
+body {
+  background-image: url(../IMAGES/paisley.png);
+  font: italic small-caps bold 16px/20px Dank Mono,Fira Code,Inconsolata;
+}
+.hello:link{
+  color: orange;
+}
+.hello:hover{
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+}
+.hello:active{
+  color: aqua;
+  font-style: normal;
+}
+.hello:visited{
+  color: black;
+}
+
+li:first-child a.top{
+  color: green;
+}
+
+li:nth-child(2n-1) a.bottom:hover{
+  color:rgb(18, 216, 216);
+}
+
+p:last-of-type{
+  color: brown;
+}
